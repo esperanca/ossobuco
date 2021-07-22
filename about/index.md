@@ -7,4 +7,4 @@ navtitle: About
 templateClass: tmpl-post
 ---
 
-I am a person that writes stuff.
+Teste para o site do Ossobuco
